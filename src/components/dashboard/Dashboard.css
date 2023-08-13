@@ -1,0 +1,13 @@
+.dashboard {
+  padding: 20px;
+  background-color: #f8d24f; /* RGB(248, 210, 79) */
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.dashboard h2 {
+  margin-bottom: 20px;
+  color: #243835;
+}
+

@@ -1,0 +1,44 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.date-column { 
+  width: 20%;
+}
+
+.snapshot-column {
+  width: 60%;
+}
+
+.table th {
+  background-color: #243835;
+  color: #f8d24f;
+}
+
+.table img {
+  max-width: 100px;
+  max-height: 80px;
+}
+
+.go-button {
+  background-color: #4ff852; /* RGB(248, 210, 79) */
+  color: #243835;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.go-button:hover {
+  background-color: #e0bb00; /* Slightly darker shade */
+}

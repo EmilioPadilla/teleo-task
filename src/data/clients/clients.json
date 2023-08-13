@@ -1,0 +1,34 @@
+[{
+  "clients": {
+    "TimothyTester" : {
+      "name": "Timothy Tester",
+      "id": 1,
+      "snapshots": [ 
+        {
+          "name": "Snapshot 1",
+          "id": 1321,
+          "date": "2015-01-01"
+        }, {
+          "name": "Snapshot 2",
+          "id": 2321,
+          "date": "2015-02-01"
+        } 
+      ]
+    },
+    "BobbyMocker" : {
+      "name": "Timothy Tester",
+      "id": 1,
+      "snapshots": [ 
+        {
+          "name": "Snapshot 1",
+          "id": 1321,
+          "date": "2015-01-01"
+        }, {
+          "name": "Snapshot 2",
+          "id": 2321,
+          "date": "2015-02-01"
+        } 
+      ]
+    }
+  }
+}]
